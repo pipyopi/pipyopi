@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pipyopi
-This is my account attached to the @Toolsdown org. Personal account @geoff-kruss
+This is my account attached to the [@toolsdown](https://github.com/toolsdown) org. 
+Personal account [@geoff-kruss](https://github.com/geoff-kruss)
 
 <!---
 pipyopi/pipyopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
